@@ -1,0 +1,22 @@
+Project overview:
+This project uses machine learning and time series forecasting to predict product demand, enabling
+optimal restocking decisions. A visual dashboard helps the store owner track inventory health, 
+suggested reorder levels, and stock anomalies.
+
+Outcomes:
+A time series demand prediction model to forecast product-level sales.
+Product-level inventory optimization recommendations(restock, reduce, hold).
+An interactive streamlit dashboard to visualize demand trends and stock health.
+Admin interface for uploading sales data and downloading optimized inventory reports.
+Notifications or indicators for overstock and stockout risks.
+
+Week-wise module Implementation and High-level requirements
+Milestone 1: 1-2 weeks
+Data preprocessing & EDA
+Milestone 2: 3-4 weeks
+Forecasting Model
+Milestone 3: 5-6 weeks
+Inventory Optimization Logic
+Milestone 4: 7-8 weeks
+Streamlit Dashboard & Reporting
+
